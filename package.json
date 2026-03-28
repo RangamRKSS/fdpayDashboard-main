@@ -1,5 +1,5 @@
 {
-  "name": "fdpaydashboard",
+  "name": "fddevpay",
   "version": "1.0.1",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,10 @@
     "open": "^11.0.0"
   },
   "bin": {
-    "fdpaydashboard": "index.js"
-  }
+    "fddevpay": "index.js"
+  },
+  "files": [
+    "dist",
+    "index.js"
+  ]
 }
