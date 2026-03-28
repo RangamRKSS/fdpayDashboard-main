@@ -1,0 +1,20 @@
+{
+  "name": "fdpaydashboard",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.22.1",
+    "open": "^11.0.0"
+  },
+  "bin": {
+    "fdpaydashboard": "index.js"
+  }
+}
